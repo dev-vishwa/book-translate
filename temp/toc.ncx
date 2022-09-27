@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="sin">
+  <head>
+    <meta name="dtb:uid" content="27605989-49ea-4113-b5eb-5938f976f85f"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.11.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Man Mula Wuwo</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u6Xcm64zz9kqu7l9bZOFmq5" playOrder="1">
+      <navLabel>
+        <text>කර්තෘගේ වෙනත් කෘති</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="u69r4HmGEOzQFIQUIBHdzJA" playOrder="2">
+      <navLabel>
+        <text>පිදුම</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint id="u4hSCFjZ2YMfzeyrczdRGSE" playOrder="3">
+      <navLabel>
+        <text>මං මුලාවූ ජීවිතය</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint id="uipfU6mGuQexgozsv5LaIR8" playOrder="4">
+      <navLabel>
+        <text>ගොඩ බිමට පැමිණි පසු</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="uzxZIQUtkMScjoMOEuaANaD" playOrder="5">
+      <navLabel>
+        <text>එක් සැන්දෑවක්</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint id="uR5FPWhLvhqJ5AEeqshbrOA" playOrder="6">
+      <navLabel>
+        <text>මහලු බොනිපස් දුටු අපරාධය</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint id="uTIxwQWrXHLclUVd4wf5d69" playOrder="7">
+      <navLabel>
+        <text>ඔලිව් උද්‍යානය</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint id="ugRUIHEEZ7MagHKERFgWyrG" playOrder="8">
+      <navLabel>
+        <text>තාත්තා</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint id="uwmURHM6EwLvVf4npj5XNc5" playOrder="9">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="index_split_011.html#calibre_toc_9"/>
+    </navPoint>
+  </navMap>
+</ncx>
