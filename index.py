@@ -18,6 +18,10 @@ def getHtmlObjectFromFile(file):
         soup = BeautifulSoup(fp, 'html.parser')
     return soup
 
+def saveFile(file, string):
+    with open(file, 'w', encoding="utf-8")as fp:
+        fp.write(string)
+
 #extractfile()
 files = getAllHtmlFiles()
 soup = getHtmlObjectFromFile(files[0])
@@ -25,6 +29,10 @@ soup = getHtmlObjectFromFile(files[0])
 #print(soup.prettify())
 test = soup.prettify()
 
-re.compile(r"\#T\#(.*?)\#T\#")
+wordlist = re.findall(r"\#T\#(.*?)\#T\#", test)
 
-print(test)
+match = re.sub(r"\#T\#(.*?)\#T\#", r'<span class="test">\1</span>', test)
+
+print(match)
+
+saveFile(files[0], match)
